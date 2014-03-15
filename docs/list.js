@@ -110,7 +110,7 @@ var list = {
 		],
 
 		"Renderers / Renderables": [
-			[ "RenderableFace3", "api/renderers/renderables/RenderableFace3" ],
+			[ "RenderableFace", "api/renderers/renderables/RenderableFace" ],
 			[ "RenderableLine", "api/renderers/renderables/RenderableLine" ],
 			[ "RenderableObject", "api/renderers/renderables/RenderableObject" ],
 			[ "RenderableParticle", "api/renderers/renderables/RenderableParticle" ],
